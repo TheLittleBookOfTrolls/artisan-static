@@ -1,8 +1,8 @@
 ---
-title: '05 - Cloudinary Image Hosting'
-date: 2018-08-31
-image: photos.jpg
-comments: false
+title: 05 - Cloudinary Image Hosting
+date: 2018-08-31T00:00:00.000Z
+image: Troll Sketch 1119 Left 11119.jpg
+comments: true
 ---
 Register on [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qq2slabgpy590znlop4j).
 
